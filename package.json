@@ -1,0 +1,9 @@
+{
+  "name": "Earth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "three": "^0.87.1"
+  }
+}
